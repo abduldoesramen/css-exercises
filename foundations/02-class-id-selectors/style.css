@@ -1,0 +1,18 @@
+p {
+  background-color: lightcoral;
+}
+
+.cooler {
+  font-size: x-large
+}
+
+#div-id {
+  color: blue;
+  font-size: xx-large;
+}
+
+#another-id {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: large;
+}
